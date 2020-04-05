@@ -80,7 +80,7 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "你猜猜以后这里会写什么？"
 sidebar-avatar: /img/avatar-zijian.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-	
+
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
