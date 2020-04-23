@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Hello 2020"
+title:      "Hello world!"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2020-04-06 01:10:00
 author:     "Zijian"
@@ -12,7 +12,8 @@ tags:
 
 > “Yeah It's on. ”
 
-
 Hello World!
+
+2020/4/6 这个博客开始了
 
 
