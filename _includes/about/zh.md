@@ -1,7 +1,6 @@
-![at_cqt](C:\Users\ZhangZijian\Documents\GitHub\doomspec.github.io\img\at_cqt.jpg)
+![at_cqt](\img\at_cqt.jpg)
 
 <center>（笔者在新加坡CQT）</center>
-
 Hi，我是张子健。这里是我的博客。
 
 我是一名物理系学生，本科就读于南方科技大学，师从翁文康教授研究量子计算。受导师的影响，相比起量子纠错码等长远的量子计算基础，我对近期可以实现的量子算法更感兴趣。此外，我也有量子密码学的研究经历。我目前主要在进行研究有：
