@@ -6,7 +6,7 @@ author:     "Zijian"
 header-img: "img/post-hello-2020.png"
 catalog: true
 tags:
-    - 动画
+    - 文学
 
 ---
 
