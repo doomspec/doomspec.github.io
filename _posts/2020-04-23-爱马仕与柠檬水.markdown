@@ -6,12 +6,13 @@ author:     "Zijian"
 header-img: "img/post-hello-2020.png"
 catalog: true
 tags:
+    - 音乐
     - 动画
 ---
 
-「给我一匙砂糖，把充满痛苦酸楚的每一天，都变成甜甜的柠檬水。」——《LEMONADE》
+<img src="\img\post_2020\爱马仕与柠檬水.jpg" width="60%"/>
 
-<img src="\img\post_2020\爱马仕与柠檬水.jpg" width="80%"/>
+「给我一匙砂糖，把充满痛苦酸楚的每一天，都变成甜甜的柠檬水。」——《LEMONADE》
 
  如果问偶像大师本家哪张专辑让我印象最深刻，那一定是《THE IDOLM@STER MASTER PRIMAL POPPIN' YELLOW》。一来是因为本家那些名曲在我看来都是单独出名的，轮不着承载它的专辑。二来是这张专辑的歌真的是好听。然而实在是出乎意料，这张专辑竟然是17年12月才出的。十分欣慰本家这种高龄组合还能出品如此出色的专辑。当然，我更欣慰的是本家还没有结束，没准以后还能有更好的作品。
 
