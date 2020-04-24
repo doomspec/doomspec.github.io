@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "关于百合熊风暴"
+title:      "观百合熊风暴"
 date:       2020-04-23 06:30:00
 author:     "Zijian"
 header-img: "img/post-hello-2020.png"

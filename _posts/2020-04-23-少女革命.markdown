@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "关于少女革命"
+title:      "观少女革命"
 date:       2020-04-23 06:20:00
 author:     "Zijian"
 header-img: "img/post-hello-2020.png"
