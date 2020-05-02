@@ -47,6 +47,27 @@ layout: default
                     {% endif %}
                 </ul>
                 <hr style="visibility: hidden;">
+	
+<!-- Gitalk 评论 start  -->
+
+<!-- Link Gitalk 的支持文件  -->
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
+<div id="gitalk-container"></div>     <script type="text/javascript">
+    var gitalk = new Gitalk({
+
+    // gitalk的主要参数
+		clientID: `97f47e9936c125885b65`,
+		clientSecret: `6d44828849dbdb73098eb54ec31001af81c5eb41`,
+		repo: `doomspec.github.io`,
+		owner: 'doomspec',
+		admin: [''doomspec','],
+		id: title,
+    
+    });
+    gitalk.render('gitalk-container');
+</script> 
+<!-- Gitalk end -->
 
                 {% if site.disqus_username %}
                 <!-- disqus 评论框 start -->
