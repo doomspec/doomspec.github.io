@@ -54,7 +54,14 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-
+comments:
+  gitalk: true
+  gitalk_clientID: '97f47e9936c125885b65'
+  gitalk_Secret: '6d44828849dbdb73098eb54ec31001af81c5eb41'
+  gitalk_repo: 'doomspec.github.io'
+  gitalk_owner: 'doomspec'
+  gitalk_admin: 'doomspec'
+  distractionFreeMode: true
 
 # Disqus settings
 #disqus_username: hux
