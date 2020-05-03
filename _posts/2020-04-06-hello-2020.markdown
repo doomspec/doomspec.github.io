@@ -16,4 +16,10 @@ Hello World!
 
 2020/4/6，在疫情中寂静中，这个博客开始了
 
+搭建本博客使用的教程：
 
+https://www.jianshu.com/p/e68fba58f75c
+
+Gitalk插件：请参考Gitalk的官方教程，在post.html里把相关模块放在该放的地方。如果想要在_config.yml里面统一管理，可以参考此文
+
+https://www.jianshu.com/p/656e6101bf0f （我是参考了官方教程才成功的...这篇文章有点问题）
