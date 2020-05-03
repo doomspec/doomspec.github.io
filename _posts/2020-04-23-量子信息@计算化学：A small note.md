@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "量子信息@计算化学：A small note"
+title:      "量子信息与计算化学：A small note"
 date:       2020-04-23 07:04:00
 author:     "Zijian"
 header-img: "img/post-hello-2020.png"
@@ -18,7 +18,7 @@ tags:
 
 计算化学的核心研究对象是分子的基态能量（我们把计算化学限定在electronic structure问题）。因为原子核比电子重很多，大多数情况下人们用经典力学处理原子核，而用量子力学处理电子（计算电子的波函数），并且在计算电子的波函数时固定原子核。通过计算体系在不同原子核位置下的基态能量，我们可以获得原子核坐标和基态能量之间的函数，也就是势能面(potential energy surface) (PES)。PES可以帮我们计算系统能够稳定的构型（分子稳定在势能面的极小点），反应路径等重要信息。
 
-![\img\post_2020\量子信息at计算化学\Potential_Energy_Surface_for_Water](Potential_Energy_Surface_for_Water.png)
+![Potential_Energy_Surface_for_Water](\img\post_2020\量子信息at计算化学\Potential_Energy_Surface_for_Water.png)
 
 <center> （图摘自Wikipedia） </center>
 变分原理是解决体系基态能量问题的关键。变分原理写作 （读者也可以查阅Griffith量子力学Variational Law那一章）
@@ -71,7 +71,7 @@ DMRG（Density matrix renormalization group）一开始是一个用来计算**�
 <center> MPS的样子，在DMRG中每一个轨道被放到一个蓝点上（图为网上随便找的） </center>
 但是一个很重要的问题就是如何排列这些轨道。对于长链分子，不用多说，只要按照轨道的空间关系排列就好了。但是对于一般的，比如说水这样的分子，我们该如何排列呢？下面的图片展示了一些分子在不同的轨道排序策略下DMRG计算收敛的情况。可见，在不同的排列策略下，DMRG的表现效果很不同。
 
-![\img\post_2020\量子信息at计算化学\不同orderDMRG.png](不同orderDMRG.png)
+![不同orderDMRG.png](\img\post_2020\量子信息at计算化学\不同orderDMRG.png)
 
 <center>（图摘自 [1]） </center>
 这个结果并不奇怪，因为在DMRG中，两个site之间的量子纠缠随着site之间距离的变远而减小，所以如果我们把两个强烈纠缠的轨道放在离得较远的两个位置，必然得不到满意的结果。Legeza 和 Solyom[2]在2003的时候提出了用轨道的信息熵的大小来排列轨道的方案。正如上文所说，一个轨道与别的轨道纠缠得越强烈，其信息熵会越大。故可以先跑一遍比较粗糙的计算（比如DMRG），获得一个粗略的波函数，然后计算各个轨道的信息熵，把信息熵比较大的轨道放到DMRG中位于中部的site，而把信息熵小的轨道放到两边的site。
