@@ -10,7 +10,7 @@ tags:
 	- 化学
 ---
 
-## 量子信息@计算化学：A small note
+## 量子信息与计算化学：A small note
 
 ![题图](\img\post_2020\量子信息at计算化学\题图.png)
 
