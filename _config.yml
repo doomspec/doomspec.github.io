@@ -106,11 +106,10 @@ page-mathjax: true
 
 
 
-# Friends
-#friends: [
-    #{
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-
-#]
+ Friends
+friends: [
+    {
+         title: "Hackroid's Blog",
+         href: "https://blog.hackroid.com/"
+     }
+]
