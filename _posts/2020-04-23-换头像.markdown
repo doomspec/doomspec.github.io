@@ -1,6 +1,7 @@
 ---
 layout:     post
-title:      "换头像"
+title:      "动漫败犬与人生"
+subtitle: "——记换头像"
 date:       2020-04-23 06:50:00
 author:     "Zijian"
 header-img: "img/post-hello-2020.png"
