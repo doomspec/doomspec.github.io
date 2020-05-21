@@ -1,6 +1,7 @@
 ---
 layout:     post
-title:      "再次自我介绍——于本科毕业之时"
+title:      "再一次的自我介绍"
+subtitle:	"——于本科毕业之时"
 date:       2020-05-01 01:00:00
 author:     "Zijian"
 header-img: "img/post-hello-2020.png"

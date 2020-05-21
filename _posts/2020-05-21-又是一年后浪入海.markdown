@@ -1,6 +1,7 @@
 ---
 layout:     post
-title:      "又是一年后浪入海——观《入海》"
+title:      "又是一年后浪入海"
+subtitle:	"——观《入海》"
 date:       2020-05-21 22:00:00
 author:     "Zijian"
 header-img: "img/post-hello-2020.png"

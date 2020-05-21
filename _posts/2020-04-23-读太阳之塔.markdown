@@ -1,6 +1,7 @@
 ---
 layout:     post
-title:      "读太阳之塔"
+title:      "念念不忘的恋之伤痕"
+subtitle:   "——读《太阳之塔》"
 date:       2020-04-23 18:20:00
 author:     "Zijian"
 header-img: "img/post-hello-2020.png"

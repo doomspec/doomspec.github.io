@@ -1,6 +1,7 @@
 ---
 layout:     post
-title:      "美与幻灭——重读《雪国》"
+title:      "美与幻灭"
+subtitle:	"——重读《雪国》"
 date:       2020-04-25 01:00:00
 author:     "Zijian"
 header-img: "img/post-hello-2020.png"
