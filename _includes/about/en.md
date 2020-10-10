@@ -9,11 +9,11 @@ Hi, I am Zi-Jian Zhang. Here is my blog. I am a student who studies quantum comp
 
 I am also interested in quantum programming platform. I am the main author of *Mizore*, which is a framework for adaptive quantum algorithms. We will publish it soon.
 
-More research experience is in my [CV](CV_ZijianZhang.pdf) and [Google scholar](https://scholar.google.com/citations?user=O2S4JLkAAAAJ&hl=en).
+More research experience is in my [CV](\_includes\about\CV_ZijianZhang.pdf) and [Google scholar](https://scholar.google.com/citations?user=O2S4JLkAAAAJ&hl=en).
 
 Though this blog mainly publish Chinese article, you can view the English articles [here](http://zijian-zhang.com/archive/?tag=English).
 
-Contact:  My email address can be found in  <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0581-9168" href="https://orcid.org/0000-0002-0581-9168" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0581-9168</a></div>.
+Contact:  My email address can be found in  <a itemprop="sameAs" content="https://orcid.org/0000-0002-0581-9168" href="https://orcid.org/0000-0002-0581-9168" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-0581-9168</a>.
 
 Personally, I am interested in: 
 
