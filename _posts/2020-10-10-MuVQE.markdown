@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      "Standing on the shoulders of classical giants"
+title:	"Standing on the shoulders of classical giants"
 subtitle:	"Near-term quantum algorithms can benefit from the power of classical algorithms"
-date:       2020-05-21 22:00:00
+date:       2020-10-10 22:00:00
 author:     "Zijian"
 header-img: "img/post-hello-2020.png"
 catalog: true
 tags:
-    - Quantum Computing	
-	- English
+    - Quantum Computing
+    - English
 ---
 
 *By Zi-Jian Zhang, Thi Ha Kyaw and Alán Aspuru-Guzik*  (See also [The Matter Blotter](https://aspuru.substack.com/p/standing-in-the-shoulder-of-giants))
